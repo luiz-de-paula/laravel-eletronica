@@ -172,7 +172,19 @@ span{
 #items-list li{
   display: flex;
 }
-
+/* dashboard */
+.dashboard-title-container{
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+.dashboard-events-container th{
+  width: 25%;
+}
+/* Edit page  */
+.img-preview{
+  width: 100px;
+  margin-top: 2rem;
+}
 
 /* footer  */
 footer{
